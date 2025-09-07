@@ -8,7 +8,7 @@
 
 </head>
 <body>
-    <h1>Ajouter un membre </h1>
+    <h1>Ajouter un membre</h1>
     <form action ="../controlleur/enregistrer_membre.php" method= "POST">
         <label for="nom">Nom:</label>
         <input type="text" id="nom" name="nom" required ><br>

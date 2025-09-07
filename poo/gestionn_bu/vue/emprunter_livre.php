@@ -8,7 +8,7 @@
     
 </head>
 <body>
-<h1> emprunter un livre </h1>
+<h1> Emprunter un livre </h1>
     <form action ="../controlleur/chercher_livre.php" method= "POST">
         <label for="titre">titre:</label>
         <input type="text" id="titre" name="titre" required ><br>
